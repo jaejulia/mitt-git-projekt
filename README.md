@@ -1,5 +1,5 @@
 # Mitt första Git-projekt
 #ändringen
 # ändring 2
-Jag studerar IT hos Lexicon.
+Jag läser git github kursen.
 Det här projektet ska visa hur Git håller reda på ändringar.
